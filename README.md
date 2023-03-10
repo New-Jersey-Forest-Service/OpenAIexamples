@@ -1,4 +1,4 @@
-# OpenAIexamples
+# OpenAIexamples from the New Jersey Forest Service 2023
 Examples of using the OpenAI API
 
 This intent of this project is to provide a series
