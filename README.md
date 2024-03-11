@@ -3,7 +3,7 @@
 Examples of using the OpenAI API
 from the New Jersey Forest Service
 
-This intent of this project is to provide a series
+The intent of this project is to provide a series
 of examples using the OpenAI API to access large 
 language models such as ChatGPT in an automated fashion 
 to demonstrate how these toos could be used for tasks such
