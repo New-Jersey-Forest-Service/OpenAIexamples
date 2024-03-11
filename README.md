@@ -6,7 +6,8 @@ from the New Jersey Forest Service
 This intent of this project is to provide a series
 of examples using the OpenAI API to access large 
 language models such as ChatGPT in an automated fashion 
-to improve automated reporting of forest metrics.
+to demonstrate how these toos could be used for tasks such
+as automated reporting.
 
 The project will contain a series of Jupyter notebooks 
 meant to be used in learning some of the features of the 
