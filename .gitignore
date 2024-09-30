@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# API key classes
+BillKey.py
+WMAPkey.py
+BillPersKey.py
+BillExpKey.py
